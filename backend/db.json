@@ -1310,6 +1310,15 @@
       "editor": "Inversa",
       "tema": "Economia",
       "id": 155
+    },
+    {
+      "autor": "George Orwell",
+      "titulo": "1984",
+      "subtitulo": "",
+      "numpag": "414",
+      "editor": "Companhia das Letras",
+      "tema": "Ficção",
+      "id": 156
     }
   ]
 }
